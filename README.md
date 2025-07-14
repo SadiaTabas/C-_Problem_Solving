@@ -39,6 +39,39 @@ This repository contains solutions to various C++ programming problems. Each pro
 
 11.Searches for an element using binary search (array must be sorted if not sorted sort it manually)
 
+12.	Insertion Sort Implementation
+Write a program to implement the Insertion Sort technique.
+
+13.	Search and Sort (User Choice)
+Write a program to implement searching (1. Linear, 2. Binary) and sorting (Insertion Sort) procedures together based on the user's choice.
+
+14.	Area Calculator for 2D Shapes
+Write a program to calculate the area of 5 shapes:
+o	Rectangle
+o	Square
+o	Rhombus
+o	Parallelogram
+o	Trapezoid
+
+15.	Leap Year Range Display
+Write a program to show all leap years between two given years. If there are no leap years, display a suitable message.
+
+16.	2D Array – Diagonal Sum and Average
+Write a program to access and calculate the summation and average of all elements on any diagonal of a 2D array.
+
+17.	1D Array Analysis
+Write a program where:
+o	A 1D array of integers is input
+o	Return maximum and minimum elements
+o	Show sum and average value
+o	Count total number of duplicate elements
+
+18.	Sales & Profit Calculator
+Write a program that takes:
+o	Sales unit price
+o	Sales and revenue (of 5 items)
+o	Calculates the total profit of 1 week and the average profit per day
+
 
 ## 🛠 How to Run the Programs:
 1. Clone the repository
