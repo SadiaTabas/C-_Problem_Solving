@@ -72,6 +72,42 @@ o	Sales unit price
 o	Sales and revenue (of 5 items)
 o	Calculates the total profit of 1 week and the average profit per day
 
+19. Quick Sort  
+   Implements the divide-and-conquer based quick sort algorithm.
+
+20. Merge Sort  
+   Implements the merge sort algorithm with recursive splitting and merging.
+
+21. Counting Sort  
+   Implements the linear-time counting sort algorithm (for non-negative integers).
+
+22. User Choice-Based Search  
+   A menu-based program where the user can:
+   - Choose between Linear Search and Binary Search
+   - Sort the array first using a sorting algorithm of their choice:
+     - Insertion Sort
+     - Quick Sort
+     - Merge Sort
+     - Counting Sort
+
+23. Insert at Middle, Search, Sort, Search Again  
+   - Insert a new element in the middle of an array.
+   - Search for a given value.
+   - Sort the array.
+   - Search for the same value again
+
+24.Fibonacci-like House Number Generator**  
+     - Generate the first 20 house numbers for an area where:
+     - 1st house = 0
+     - 2nd house = 1
+     - 3rd house = sum of the previous two
+     - ...and so on (Fibonacci sequence)
+
+25.Insert at End and Delete from Start of Array  
+   - Insert a new element at the end of an array.
+   - Delete the first element (like queue behavior).
+
+
 
 ## 🛠 How to Run the Programs:
 1. Clone the repository
