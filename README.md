@@ -107,9 +107,56 @@ o	Calculates the total profit of 1 week and the average profit per day
    - Insert a new element at the end of an array.
    - Delete the first element (like queue behavior).
 
+ 26. 💸 Minimum Number of Notes for 2887 Taka
+   You need to pay 2887 BDT using the least number of currency notes. The available denominations are:
+   1000, 500, 200, 100, 50, 20, 10, 5, 2
+
+🧮 Output: Optimal combination of notes to cover the amount with minimum note count.
+
+27. Maximize Product Profit (Weight Limit: 15kg)
+You must choose from the following items:
+
+| Product       | Weight | Price |
+|---------------|--------|-------|
+| Rice          | 7kg    | 700tk |
+| Lentils       | 5kg    | 600tk |
+| Sugar         | 2kg    | 240tk |
+| Salt          | 5kg    | 250tk |
+| Basmati Rice  | 3kg    | 1050tk |
+
+ Goal: Select products that **maximize total price (profit)** without exceeding 15kg. This is a bounded knapsack problem variant.
+
+ 28. Bank Account Interest Calculation (10 Customers)
+For each customer, the program stores:
+- Name
+- NID
+- Age
+- Occupation
+- Initial Account Balance
+
+ Calculates:
+- **Annual Interest (6.5%)
+- **Account Balance after 1 Year
+- **Balance after 10 Years (compound interest)
+
+Displays all customer data along with projected balances.
+
+29. Student CGPA & Waiver Eligibility (10 Students)
+For each student, the program stores:
+- Student Name
+- Student ID
+- Age
+- Department
+
+It also:
+- Takes GP of 5 courses to calculate SGPA
+- Calculates CGPA over 4 years
+- Checks waiver eligibility if SGPA ≥ 3.75 (25% tuition waiver)
+
+ Outputs complete details with waiver eligibility status.
 
 
-## 🛠 How to Run the Programs:
+ 🛠 How to Run the Programs:
 1. Clone the repository
 git clone:
  https://github.com/SadiaTabas/C-_Problem_Solving
